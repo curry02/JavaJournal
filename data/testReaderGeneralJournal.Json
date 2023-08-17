@@ -1,0 +1,15 @@
+{
+  "journal": [
+    {
+      "date": "dec 24",
+      "moneyInAccount": 50,
+      "contents": "worked 5 hours"
+    },
+    {
+      "date": "feb 14",
+      "moneyInAccount": 50,
+      "contents": "bus moment"
+    }
+  ],
+  "name": "My Journal"
+}
